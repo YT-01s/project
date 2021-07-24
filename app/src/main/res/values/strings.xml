@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">where</string>
+    <string name="button_name">버튼</string>
+    <string name="Intro">인트로 화면</string>
+</resources>
